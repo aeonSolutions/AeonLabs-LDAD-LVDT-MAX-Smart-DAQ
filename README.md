@@ -5,6 +5,9 @@ This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ an
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/total)
 
+
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+
 ## Revisions
 - revision 6.1
   - added MCU firmware download connection 
