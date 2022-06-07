@@ -36,7 +36,7 @@ The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
-
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb.jpg)
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb_back.png)
 
