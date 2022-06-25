@@ -37,6 +37,8 @@ The price will be around 30eur plus postage fees.
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb_back.png)
 
 ________________________________________________________________________________________________________________
+## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
+________________________________________________________________________________________________________________
 
 ## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
