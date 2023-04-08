@@ -1,4 +1,8 @@
-# AeonLabs LDAD LVDT MAX Smart DAQ
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> LDAD LVDT MAX Smart DAQ
+
+<br>
+
+# LDAD LVDT MAX Smart DAQ
 This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
  
 
